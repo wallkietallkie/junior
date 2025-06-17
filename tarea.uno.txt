@@ -1,0 +1,4 @@
+La primer tarea es realizar un programa en python que realice un menu de opciones : 
+
+
+1 .- Realizer un 
