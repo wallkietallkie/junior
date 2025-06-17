@@ -1,0 +1,18 @@
+Let’s practice.
+An application has been experiencing issues in production. Your boss has requested that you analyze the logs.
+
+The log file can be found in the following path:
+📁 https://github.com/wallkietallkie/junior/blob/main/webapp.zip
+
+Please create a Python script to detect the different types of errors and count their occurrences. For example: 
+
+$ python count_error_types.py
+
+Expected output:
+
+The log contains 100 messages of type "WARN", such as "Slow response time".
+The log contains 30 messages of type "ERROR", such as "Unauthorized access".
+....
+
+Please submit your code in your GitHub account.
+
