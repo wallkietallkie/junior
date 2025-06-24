@@ -1,0 +1,7 @@
+You should resolve the task task.one.txt: 
+
+https://github.com/wallkietallkie/junior/blob/main/task.one.txt
+
+in the same way, but using Linux-Bash  as the language. 
+
+Then, test your API with webapp.log and upload the code to GitHub.
