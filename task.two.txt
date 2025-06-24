@@ -1,0 +1,13 @@
+Task two(Sql queries)
+
+Go to link : https://sqlbolt.com/ 
+
+
+And complete the  levels:
+
+SQL Lesson 1: SELECT queries 101
+SQL Lesson 2: Queries with constraints (Pt. 1)
+
+
+When you finish the level, take a screenshot and upload it to your GitHub account.
+
