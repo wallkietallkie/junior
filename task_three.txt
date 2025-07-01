@@ -1,0 +1,19 @@
+Let's practice! 
+
+NGNIX PAGE 
+
+1.- Create a account in AWS 
+  You require:  email, card-number(real not fake) and phone number
+2.- Run a EC2 intance free, create a certification keys. 
+3.- Connect via ssh(warning with security group access, put rules only for your ip in inbound rules ) and install nginx server. 
+4.- Follow the tutorial : 
+
+https://www.youtube.com/watch?v=91xOfV0rdT4
+
+* Remember the tutorial run a server in his own local server, you should change the IP(localhost) for your public IP(instance)
+* Remember open the ports http(80) in security groups rules inbound. 
+
+
+and build the same project . 
+
+
